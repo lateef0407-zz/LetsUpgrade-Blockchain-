@@ -1,4 +1,5 @@
-pragma solidity ^0.4.17 <0.6.12;
+pragma solidity ^0.5.10;
+
 contract employeeDetails {
     string public name;
     uint public salary;

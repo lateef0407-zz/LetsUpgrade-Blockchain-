@@ -1,4 +1,4 @@
-pragma solidity ^0.4.17 <0.6.12;
+pragma solidity ^0.5.10<0.7.12; 
 contract trainticket {
     string public passname;
     uint public depttime;
